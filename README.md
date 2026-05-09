@@ -56,3 +56,4 @@ RADIUS_METERS = 100     # 通知を出す半径(m)
 MIT License
 
 「ブラウザ一つで、地理空間をスマートに管理する。」
+<img width="1915" height="990" alt="スクリーンショット 2026-05-09 164340" src="https://github.com/user-attachments/assets/9eaaac4b-1d64-4e18-bef3-25e66ccf2a08" />
